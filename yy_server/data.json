@@ -1,0 +1,57 @@
+[{
+  "id": 1,
+  "name": "测试场地1",
+  "rooms":[{
+    "id": 1,
+    "is_occupy": 0,
+    "is_enable": 1,
+    "is_free": 1,
+    "price": 10,
+    "time_enable": 1,
+    "charge_mode": 2
+  },{
+    "id": 2,
+    "is_occupy": 0,
+    "is_enable": 1,
+    "is_free": 1,
+    "price": 10,
+    "time_enable": 1,
+    "charge_mode": 2
+  },{
+    "id": 3,
+    "is_occupy": 0,
+    "is_enable": 1,
+    "is_free": 1,
+    "price": 10,
+    "time_enable": 1,
+    "charge_mode": 2
+  }]
+},{
+  "id": 2,
+  "name": "测试场地2",
+  "rooms":[{
+    "id": 3,
+    "is_occupy": 0,
+    "is_enable": 1,
+    "is_free": 1,
+    "price": 15,
+    "time_enable": 1,
+    "charge_mode": 2
+  },{
+    "id": 4,
+    "is_occupy": 0,
+    "is_enable": 1,
+    "is_free": 1,
+    "price": 20,
+    "time_enable": 1,
+    "charge_mode": 2
+  },{
+    "id": 5,
+    "is_occupy": 0,
+    "is_enable": 1,
+    "is_free": 1,
+    "price": 10,
+    "time_enable": 1,
+    "charge_mode": 2
+  }]
+}]
